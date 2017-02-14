@@ -1,4 +1,4 @@
-# Simple Crud
+# Aula 01 (Série) - Aplicativo básico
 Aplicativo Android baseado na IDE Android Studio 2.2.3.<br />
 Faz parte de uma série de aulas básicas de Android criadas pelo professor.<br />
 Este aplicativo pega o texto de um EditText inputado pelo usuário e o exibe num TextView.
